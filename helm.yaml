@@ -1,0 +1,6 @@
+build:
+  uri: https://github.com/fl4via/numberguess_vf2f.git
+  ref: main
+  contextDir: numberguess_vf2f
+deploy:
+  replicas: 1
